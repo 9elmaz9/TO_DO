@@ -1,6 +1,6 @@
 # Todo List Application
 
-![Project Screenshot](https://example.com/screenshot.png)
+![Project Screenshot](https://personalpivots.com/wp-content/uploads/2022/05/done-list.png)
 
 This is a simple Todo List application built with HTML, CSS, and JavaScript. The application allows users to add, complete, and delete tasks. It uses `localStorage` to persist tasks across browser sessions.
 
